@@ -13,4 +13,5 @@ A Python script that automatically organises files into folders by type.
 ## Usage
 ```python
 python3 main.py
-Enter folder path when prompted.```
+Enter folder path when prompted.
+```
