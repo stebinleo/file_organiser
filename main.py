@@ -52,7 +52,7 @@ def organise(folder):
     for category, count in summary.items():
         print(f"  {category}: {count} file(s)")
 
-    print("\n🎉 Done!")
+    print("\n🎉File organising Done!")
     
 # Run
 folder = input("Enter folder path to organise: ")
