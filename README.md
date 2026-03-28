@@ -1,3 +1,4 @@
+# File Organiser
 A Python script that automatically organises files into folders by type.
 
 ## Categories
